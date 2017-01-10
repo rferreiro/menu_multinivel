@@ -21,9 +21,9 @@ div#container {
 	background-image: -webkit-linear-gradient(-90deg,rgba(255,255,255,0.5),rgba(255,255,255,0.1));
 	background-image: linear-gradient(-90deg,rgba(255,255,255,0.5),rgba(255,255,255,0.1));
 	border: 1px solid #888;
-	-moz-border-radius: 10px;
-	-webkit-border-radius: 10px;
-	border-radius: 10px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
 	-moz-box-shadow: 0 0 5px rgba(0,0,0,0.4);
 	-webkit-box-shadow: 0 0 5px rgba(0,0,0,0.4);
 	box-shadow: 0 0 5px rgba(0,0,0,0.4);
@@ -62,7 +62,7 @@ div#container {
     color: #FFFFFF;
     display: block;
     font: 16px/30px "calibri",arial,sans-serif;
-    padding: 0 15px;
+    padding: 0 20px;
     text-decoration: none;
 }
 
